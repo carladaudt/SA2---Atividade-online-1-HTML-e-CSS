@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site Responsivo</title>
+    <!-- <link rel="stylesheet" href=".nome do arquivo css dentro da pasta.css"> -->
+
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+
+        /* Mobile first */
+        body {
+            padding: 0 20px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 24px;
+        }
+
+        p {
+            display: none;
+            text-align: justify;
+            margin-top: 20px;
+        }
+
+
+        /* Breakpoints */
+
+        /* Tablets */
+        @media screen and (min-width: 768px) {
+            h1 {
+                color: darkblue;
+                font-size: 40px;
+            }
+
+            p {
+               display: block;
+               font-size: 28px;
+
+
+            }
+            
+        }
+
+        /* Desktop */
+        @media screen and (min-width: 992px) {
+            .container-grid {
+                max-width: 900px;
+                margin: o auto;
+                border: 1px solid red;
+
+            }
+            h1 {
+                font-size: 24px;   
+            }
+            p {
+                font-size: 16px; 
+            }
+
+        }
+
+        /* Notebooks ou telas largas */
+        @media screen and (min-width: 1200px) {
+            body {
+                background-color: bisque;
+            }
+
+        } 
+
+        /* Tela full hd (1920px)*/
+        @media screen and (min-width: 1440px) {
+
+} 
+                
+    </style>
+</head>
+<body>
+    <div class="container-grid">
+
+
+    </div>
+    <h1>Meu primeiro site responsivo</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora nam minima maxime nisi, iusto debitis sunt tenetur quisquam ut nemo eveniet quidem laudantium officiis provident odio aspernatur! Libero, quae nulla.</p>
+</body>
+</html>

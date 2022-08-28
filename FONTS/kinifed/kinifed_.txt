@@ -1,0 +1,44 @@
+
+************************************
+*  KInifed (Killer Instinct) Font  *
+************************************
+
+Font info
+Font name: KInifed
+Font type: Unicode
+Font version: 3.0 Final R1; January 29, 2002
+Archive name: kinifed_.ttf
+Archive size: 33 KB
+Thanks for download my Font.
+************************************************************************
+IMPORTANT: THIS FONT IS ONLY FOR PERSONAL USE, DON'T FOR COMMERCIAL USE.
+************************************************************************
+
+If you decide put this font in your page for download, you should attach this txt file.
+
+********************************
+
+Special characters:
+
+* = KI logo.
+( = KI outlined logo.
+) = KI with shadows logo.
+! = KI Killer Instinct logo.
+' = KI2 logo.
+. = KI2 outlined logo.
+: = KI2 with shadows logo.
+? = KI2 Killer Instinct logo.
+, = Killer Instinct detailed logo.
+; = Killer Instinct logo.
+$ = Rare/Nintendo logo.
+@ = Author logo.
+
+********************************
+
+Author e-mail: jmdzoom@yahoo.com
+Author home page: http://www.geocities.com/jmdonline
+
+This font was created by jmd and based on the game
+Killer Instinct by Rare/Nintendo/Midway.
+
+KInifed is a registered trademark of jmd Fonts.
